@@ -1,0 +1,9 @@
+  header img {
+    display: block;
+    position: relative;
+    left: 38%;
+    cursor: pointer;
+    width: 150px;
+    height: auto;
+  }
+  
