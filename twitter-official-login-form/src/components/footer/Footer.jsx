@@ -2,14 +2,14 @@ import './styles.css';
 
 export const Footer = () => {
   return (
-    <div class="footer-input-form">
+    <div className="footer-input-form">
       <input
-        class="input-1"
+        className="input-1"
         placeholder="Phone,email or username"
         type="text"
       />
       <button>Next</button>
-      <input class="input-2" placeholder="Forgot Password?" type="text" />
+      <input className="input-2" placeholder="Forgot Password?" type="text" />
       <span href="#">
         Don't have an account <a href="#">Sign Up</a>{" "}
       </span>

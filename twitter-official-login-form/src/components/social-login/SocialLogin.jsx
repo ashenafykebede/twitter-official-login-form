@@ -7,7 +7,7 @@ const social = [
 ];
 export const SocialLogin = ()=>{
     return (
-        <div class="input-form">
+        <div className="input-form">
             <Link links={social}/>
             </div>
     );
